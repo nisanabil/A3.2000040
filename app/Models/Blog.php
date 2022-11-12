@@ -7,7 +7,7 @@
  */
 namespace App\Models;
 
-/**ih km
+/**blog aku
  * 
  * 
  * 
