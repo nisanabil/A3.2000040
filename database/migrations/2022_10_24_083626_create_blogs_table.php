@@ -42,9 +42,6 @@ class CreateBlogsTable extends Migration
      * 
      * 
      * 
-     * 
-     * 
-     * 
      * @return void
      */
     public function down()
